@@ -1,7 +1,6 @@
 # Analyzing the Stability of Coal Supply Chain
 This repository documents the data extraction and financial tail risk modeling processes associated with the Master's thesis **"Analyzing the Stability of Coal Supply Chain"** by **Yueni** and **Ying**, submitted in partial fulfillment of the requirements for the Master of Science in Statistics and Data Science at KU Leuven.
-This work aims at studying the financial impact on India’s coal supply chain, with the fo-
-cus on asset-, firm-, and portfolio- level under extreme flood events using the P-RISK
+This work aims at studying the financial impact on India’s coal supply chain, with the focus on asset-, firm-, and portfolio- level under extreme flood events using the P-RISK
 framework with an agent-based model extension developed by the working paper of
 Kerkhofs et al.. The main contribution of the work is the construction of India’s
 coal supply chain network using the public data from Global Energy Monitor (GEM), and analyzing the financial tail-risk and impact of several firm structural character-
@@ -29,7 +28,7 @@ The repository is organized into the following main components:
 
 ## 📢 AI Assistance Disclosure
 
-Portions of this codebase were generated or significantly assisted by Generative AI tools (e.g., ChatGPT). 
+Portions of this codebase were generated or significantly assisted by Generative AI tools (ChatGPT). 
 
 ### Areas of AI Contribution:
 - Function scaffolding and documentation
