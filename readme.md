@@ -26,3 +26,19 @@ The repository is organized into the following main components:
 
 - **`Main Analysis.ipynb/`**  
   Contains the core modeling files, including tail risk modeling and stability analysis of the coal supply chain using classic quantile regression and LightGBM quantile regression.
+
+## 📢 AI Assistance Disclosure
+
+Portions of this codebase were generated or significantly assisted by Generative AI tools (e.g., ChatGPT). 
+
+### Areas of AI Contribution:
+- Function scaffolding and documentation
+- Refactoring suggestions
+- Model building logic 
+- Exception handling and error messages
+- Unit test generation
+
+Generated code has been reviewed, tested, and integrated by the authors.
+
+Citation:
+> OpenAI. (2025). ChatGPT (GPT-4). https://openai.com/chatgpt
